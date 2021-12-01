@@ -1,0 +1,28 @@
+var class_player_manager =
+[
+    [ "DisableControls", "class_player_manager.html#a32e0e491c6e4ba6be7a51b08282018ae", null ],
+    [ "EnableControls", "class_player_manager.html#aca2cd7124731b6be4e6df47fdaad128b", null ],
+    [ "ExtraSpeed", "class_player_manager.html#afe2ac018991dcdad3d4a3e71cdceb7fc", null ],
+    [ "getDead", "class_player_manager.html#af8eccba3db7751b982c054bcca244bb0", null ],
+    [ "getPause", "class_player_manager.html#a74c6a2a8446f6fd49f85647b2b13a154", null ],
+    [ "getPlayerEnabled", "class_player_manager.html#a27945660a41dfae8517e6f66b3d84d85", null ],
+    [ "HasRevive", "class_player_manager.html#a441e7072b82603e0ee408c4f52c498de", null ],
+    [ "Pause", "class_player_manager.html#a3ebc0194d0744598a4905d3ddb5d052d", null ],
+    [ "PowerUpUsed", "class_player_manager.html#a49034964c2785398c0e2157d36cd544b", null ],
+    [ "RaiseShield", "class_player_manager.html#aa85d50249ecb14b37b77e0267cee5525", null ],
+    [ "ResetStatus", "class_player_manager.html#a9aadd0100eae7b1ecd6cce79264a7a34", null ],
+    [ "Resume", "class_player_manager.html#addc72a756ce17dfa42eec3e0c1bac396", null ],
+    [ "Revive", "class_player_manager.html#af0f30cc91d2ca3cc0aeb213dae37dbe5", null ],
+    [ "setDead", "class_player_manager.html#ac3bb06abb91bea080efaae1c9f43ffc3", null ],
+    [ "bubbles", "class_player_manager.html#aa55076051f22a2aed14c4fd062e5b1fb", null ],
+    [ "reviveParticle", "class_player_manager.html#a410ebfcb670d99fc8b16ea997e709051", null ],
+    [ "shield", "class_player_manager.html#ab314ef8e1b473790bdf59c323fcc4444", null ],
+    [ "shieldCollider", "class_player_manager.html#a5b3a0c33475992ff4bdb66457028dfbb", null ],
+    [ "smoke", "class_player_manager.html#a970896f7a022a7ebb6c0e10f01cd2375", null ],
+    [ "sonicWave", "class_player_manager.html#a60b62c81edd4f5635da9876e389f3d25", null ],
+    [ "speedParticle", "class_player_manager.html#af2f652d860db907ec35cb0a361b6ae81", null ],
+    [ "speedTrail", "class_player_manager.html#af67a0ce51f47feedff524815938c33fa", null ],
+    [ "subMaterial", "class_player_manager.html#a91fd9bfaec4f1a3ff7b1f26a38b990ee", null ],
+    [ "subTextures", "class_player_manager.html#ac12d0cc2df01a337d6ff012e6548c31a", null ],
+    [ "Instance", "class_player_manager.html#ab8c8a1bb47b5f3734c7c3ec2f4887f94", null ]
+];

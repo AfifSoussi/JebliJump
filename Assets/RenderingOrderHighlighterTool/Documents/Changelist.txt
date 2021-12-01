@@ -1,0 +1,43 @@
+Version 1.5
+Bug fix:
+VFX sorter now works on iOS
+
+
+Version 1.4
+ - Highlighter icons can now be visible on 'inactive' objects as well
+
+
+Version 1.3
+New features
+ - VFX sorter is now supported the same as a sprite renderer 
+ - See an icon next to VFX Objects as well.
+ - New example with VFX
+ - New icon for VFX layer
+
+Version 1.2
+
+Bug fixes:
+ - Fixed a bug where highlighter icons position was changed according to the order in hierarchy
+ - Minor optimizations
+ - Added new midground layer
+
+
+Version 1.1 
+
+New features
+ - click on layer graphic to open all similar layers
+ - Editor window is now scrollable
+ - Click on Sorting layer name in editor window to select all objects on that layer
+
+ Bug fixes:
+  - Resizing hierarchy window may hide icons until you change an element in the window
+
+
+Version 1.0 
+
+- Show an icon in the hierarchy wherever you have a sprite renderer
+- Show layer order number in the hierarchy wherever you have a sprite renderer
+- 6 preset icons for the most common layers
+- Customize icons through an editor window
+- Customize order number font colour through editor window
+

@@ -1,0 +1,38 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: GUI_1024.png (1024 x 1024)
+# $TexturePacker:SmartUpdate:08e4f66cf9b878046277d697326b3112:8358687192ab6c12055d99adbaf9d911:1d58562b978a53a05c69292a8dfd6e26$
+#
+
+ShopIconBck;872;450;83;83;0.5;0.5
+menu_button_back;872;684;144;68;0.5;0.5
+menu_button_home;576;211;201;90;0.5;0.5
+menu_button_missions;826;219;191;86;0.5;0.5
+menu_button_playagain;669;579;201;200;0.5;0.5
+menu_button_quit;623;303;201;90;0.5;0.5
+menu_button_resume;649;395;201;90;0.5;0.5
+menu_button_retry;669;487;201;90;0.5;0.5
+menu_button_shop;826;307;191;86;0.5;0.5
+menu_button_sound_off;911;839;90;90;0.5;0.5
+menu_button_sound_on;911;931;90;90;0.5;0.5
+menu_current_missions;3;552;664;469;0.5;0.5
+menu_mission_accomplished;3;212;465;64;0.5;0.5
+menu_shop_bar;3;5;960;97;0.5;0.5
+menu_shop_buy_button;872;620;113;62;0.5;0.5
+menu_shop_lower_coin_icon;852;403;45;45;0.5;0.5
+menu_shop_top_coin_icon;576;369;45;45;0.5;0.5
+menu_square_backdrop;872;535;83;83;0.5;0.5
+menu_top_bar;3;104;960;105;0.5;0.5
+menu_top_bar_roll_down;872;450;83;83;0.5;0.5
+menu_top_bar_roll_up;911;754;83;83;0.5;0.5
+overlay;669;781;240;240;0.5;0.5
+revive_store_icon;957;492;63;56;0.5;0.5
+shield_store_icon;957;550;58;68;0.5;0.5
+sonic_wave_store_icon;576;416;65;61;0.5;0.5
+speed_store_icon;957;418;45;72;0.5;0.5
+submarine_logo1;3;278;571;272;0.5;0.5
+torpedo_info;576;479;71;71;0.5;0.5

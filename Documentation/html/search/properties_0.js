@@ -1,0 +1,4 @@
+var searchData=
+[
+  ['instance',['Instance',['../class_g_u_i_manager.html#a762dcc2bd2a9b6cf6918feb5fceee6c1',1,'GUIManager.Instance()'],['../class_level_generator.html#a7ead2de402dff4e25b884c6e31b8275d',1,'LevelGenerator.Instance()'],['../class_input_manager.html#afb55d4ebb7290ab0950c3fd7d3825729',1,'InputManager.Instance()'],['../class_level_manager.html#a4e58c52b52fc7486c8f6ede86867be7b',1,'LevelManager.Instance()'],['../class_mission_manager.html#ad19859ba4608ede0923398772e0e35c4',1,'MissionManager.Instance()'],['../class_player_jumping.html#a33bf7f597175d5eb799107cd99f7ad2d',1,'PlayerJumping.Instance()'],['../class_player_manager.html#ab8c8a1bb47b5f3734c7c3ec2f4887f94',1,'PlayerManager.Instance()'],['../class_player_movement.html#a5571191898ed94ca584e283ced53ad2e',1,'PlayerMovement.Instance()'],['../class_resolution_manager.html#ab1b91fcd8d7ade7d0afbe861740b3e73',1,'ResolutionManager.Instance()']]]
+];
